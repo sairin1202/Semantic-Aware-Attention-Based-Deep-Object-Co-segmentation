@@ -1,5 +1,5 @@
 
-###Directory
+### Directory
 
 #### SegmentationClass
 The directory from Pascal VOC dataset containing the semantic masks.<br/>
@@ -17,7 +17,7 @@ Turn the SegmentationClass into channel 1 range from [0,20].<br/>
 Extract image pairs from label and if they have same objects saving their co-segment mask.<br/>
 <img src="example_images/2007_000129_2007_000323.png" width="100">
 
-###Script
+### Script
 
 #### convert_val_anno.py
 Convert channel 3 masks in SegmentationClass directory into channel 1 range [0,21] label and save them in label directory.
