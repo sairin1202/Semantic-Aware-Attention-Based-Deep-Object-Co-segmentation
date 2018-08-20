@@ -5,11 +5,11 @@ The directory from Pascal VOC dataset containing the semantic masks.
 
 #### image
 The directory from Pascal VOC dataset containing the raw RGB images.
-![](example_images/2007_000129.jpg =100x50)
+<img src="example_images/2007_000129.jpg" width="200">
 
 #### label
 Turn the SegmentationClass into channel 1 range from [0,20]
-![](example_images/2007_000129_0_20.png =100x50)
+![](example_images/2007_000129_0_20.png)
 
 #### colabel
 Extract image pairs from label and if they have same objects saving their co-segment mask
