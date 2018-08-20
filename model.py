@@ -46,7 +46,7 @@ class model(nn.Module):
 
 
     def decode(self, vgg_x, vgg_y, attention_x, attention_y):
-        # decode content and style codes to an image
+        # decode content to an image
         mask_x = self.dec(attention_y * vgg_x)
         mask_y = self.dec(attention_x * vgg_y)
         #print("image size:",images.size())
