@@ -26,13 +26,13 @@ Here is the list of libraries you need to install to execute the code:
 ## Train model
 For example:
 ```
-python train.py --train_data "Datasets/PascalVoc/image/" --train_label "Datasets/PascalVoc/colabel/train/" --train_txt "Datasets/PascalVoc/colabel/train.txt" --val_data "Datasets/PascalVoc/image/" --val_label "Datasets/PascalVoc/colabel/val/" --val_txt "Datasets/PascalVoc/colabel/val.txt" --model_path "model/"
+python train.py --train_data "Datasets/PascalVoc/image/" --train_label "Datasets/PascalVoc/colabel/train/" --train_txt "Datasets/PascalVoc/colabel/train.txt" --val_data "Datasets/PascalVoc/image/" --val_label "Datasets/PascalVoc/colabel/val/" --val_txt "Datasets/PascalVoc/colabel/val.txt" --model_path "model_path/"
 ```
 
 ## Co-segment two images
 For example:
 ```
-python single_demo.py --image1 "demo/1.jpg" --image2 "demo/2.jpg" --output1 "demo/co_1.jpg"  --output2 "demo/co_2.jpg" --model "model/epoch0iter5000.pkl"
+python single_demo.py --image1 "demo/1.jpg" --image2 "demo/2.jpg" --output1 "demo/co_1.jpg"  --output2 "demo/co_2.jpg" --model "model_path/epoch0iter5000.pkl"
 ```
 
 ## Co-segment multiple images
