@@ -5,7 +5,7 @@
   - Cosegment multiple inputs with linear time.
 
 # Model
-![The overview of the model](paper_images/model.png "Model")
+![The overview of the model](paper_images/model1.png "Model")
 
 
 Model:
