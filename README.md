@@ -4,10 +4,10 @@
   - Capable of segment unseen obejct
   - Cosegment multiple inputs with linear time.
  
- ## Two inputs
+ ## Co-segmentation result
 <img src="demo/co_1.jpg" width="150"><img src="demo/co_2.jpg" width="150">
 
- ## Mutiple inputs
+ ## Instant Group Co-segmentation result
 <img src="group_demo/outputs/co_0.jpg" width="150"><img src="group_demo/outputs/co_1.jpg" width="150"><img src="group_demo/outputs/co_2.jpg" width="150"><img src="group_demo/outputs/co_3.jpg" width="150"><img src="group_demo/outputs/co_4.jpg" width="150"><img src="group_demo/outputs/co_5.jpg" width="150"><img src="group_demo/outputs/co_6.jpg" width="150"><img src="group_demo/outputs/co_7.jpg" width="150">
 
 
