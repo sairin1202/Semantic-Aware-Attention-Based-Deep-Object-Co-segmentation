@@ -3,6 +3,19 @@
   - Object Cosegmentation with Deep learning and Attention Module
   - Capable of segment unseen obejct
   - Cosegment multiple inputs with linear time.
+ 
+![single_demo](demo/co_1.jpg)
+![single_demo](demo/co_2.jpg)<br/>
+![group_demo](group_demo/outputs/co_0.jpg)
+![group_demo](group_demo/outputs/co_1.jpg)
+![group_demo](group_demo/outputs/co_2.jpg)
+![group_demo](group_demo/outputs/co_3.jpg)
+![group_demo](group_demo/outputs/co_4.jpg)
+![group_demo](group_demo/outputs/co_5.jpg)
+![group_demo](group_demo/outputs/co_6.jpg)
+![group_demo](group_demo/outputs/co_7.jpg)
+
+
 
 # Model
 ![The overview of the model](paper_images/model1.png "Model")
