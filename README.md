@@ -4,6 +4,8 @@
   - Capable of segment unseen obejct
   - Cosegment multiple inputs with linear time.
  
+ Accepted by ACCV 2018
+ 
  ## Co-segmentation result
 <img src="demo/co_1.jpg" width="150"><img src="demo/co_2.jpg" width="150">
 
