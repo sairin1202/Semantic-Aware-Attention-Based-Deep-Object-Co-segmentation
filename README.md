@@ -5,6 +5,7 @@
   - Cosegment multiple inputs with linear time.
  
  Accepted by ACCV 2018
+ https://arxiv.org/abs/1810.06859
  
  ## Co-segmentation result
 <img src="demo/co_1.jpg" width="150"><img src="demo/co_2.jpg" width="150">
