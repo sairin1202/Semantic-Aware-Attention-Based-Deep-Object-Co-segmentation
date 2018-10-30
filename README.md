@@ -28,7 +28,11 @@ Model:
 # Preprocessed Dataset
 You can download from here!
 
-https://drive.google.com/open?id=1nWj-KWQYviGgt2hodKHd4qcLRTbBhe5q
+https://drive.google.com/open?id=1xHkdAoAPNG5Vixd3wMFZEtmLJ3rBQZSG
+
+# Pretrained model
+
+
 
 # Install
 
