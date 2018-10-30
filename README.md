@@ -54,13 +54,13 @@ python train.py --train_data "Datasets/PascalVoc/image/" --train_label "Datasets
 ## Co-segment two images
 For example:
 ```
-python single_demo.py --image1 "demo/1.jpg" --image2 "demo/2.jpg" --output1 "demo/co_1.jpg"  --output2 "demo/co_2.jpg" --model "model_path/epoch0iter5000.pkl"
+python single_demo.py --image1 "demo/1.jpg" --image2 "demo/2.jpg" --output1 "demo/co_1.jpg"  --output2 "demo/co_2.jpg" --model "model_path/epoch1iter5000.pkl"
 ```
 
 ## Co-segment multiple images
 For example:
 ```
-python group_demo.py --image_path "group_demo/images/" --output_path "group_demo/outputs/" --model "model_path/epoch0iter5000.pkl"
+python group_demo.py --image_path "group_demo/images/" --output_path "group_demo/outputs/" --model "model_path/epoch1iter5000.pkl"
 ```
 Inputs and outputs all seperate into two different directories.
 
