@@ -31,9 +31,7 @@ You can download from here!
 https://drive.google.com/open?id=1xHkdAoAPNG5Vixd3wMFZEtmLJ3rBQZSG
 
 # Pretrained model
-You can download from here!
-
-https://drive.google.com/open?id=1tIsZpvgVnVxHKFSK5VpBX0cX6qJ60VSS
+Updating
 
 
 # Install
